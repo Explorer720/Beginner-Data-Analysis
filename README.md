@@ -14,8 +14,10 @@ Simple Data Analysis via pandas and matplotlib in Python
 <img src=./pie-and-polar-charts/pie-demo2-img.png>
 <img src=./pie-and-polar-charts/polar-axis-img.png>
 <br>
-<img src=./pie-and-polar-charts/pie-labeling-img.png>
-<img src=./pie-and-polar-charts/bar-chart-on-polar-axis-img.png>
+<img src=./bar_charts/grouped-bar-chart-img.png>
+<img src=./bar_charts/stacked-bar-chart-img.png>
+
+
 
 
 
