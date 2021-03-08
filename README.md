@@ -9,5 +9,13 @@ Simple Data Analysis via pandas and matplotlib in Python
 ## Some Glimpse
 
 <img src=./pie-and-polar-charts/bar-chart-on-polar-axis-img.png>
+<img src=./pie-and-polar-charts/nested-pie-charts-img.png>
+<br>
+<img src=./pie-and-polar-charts/pie-demo2-img.png>
+<img src=./pie-and-polar-charts/polar-axis-img.png>
+<br>
+<img src=./pie-and-polar-charts/pie-labeling-img.png>
+<img src=./pie-and-polar-charts/bar-chart-on-polar-axis-img.png>
+
 
 
