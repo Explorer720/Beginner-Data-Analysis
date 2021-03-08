@@ -9,6 +9,7 @@ Simple Data Analysis via pandas and matplotlib in Python
 ## Some Glimpse
 
 <img src=./pie-and-polar-charts/bar-chart-on-polar-axis-img.png>
+### Bar Chart On Polar Axis
 <img src=./pie-and-polar-charts/nested-pie-charts-img.png>
 <br>
 <img src=./pie-and-polar-charts/pie-demo2-img.png>
