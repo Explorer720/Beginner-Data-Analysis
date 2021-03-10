@@ -4,7 +4,7 @@ Simple Data Analysis via pandas and matplotlib in Python
 ### In this repositery,
 
 #### Data Visualazation part of Data Analysis is done using Matplotlib Library along with numpy and pandas
-#### Here ,I have kept code, graphs and data of my practise.
+#### Here ,I have kept code, graphs and data of my practise. After Few weeks on matplotlib and numpy , started basics of other libraries like Pytorch, Keras and TensorFlow
 
 ## Some Glimpse
 
